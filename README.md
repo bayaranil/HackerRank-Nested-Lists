@@ -10,31 +10,22 @@ Note: If there are multiple students with the second lowest grade, order their n
 
 Sample Input 0
 
+
+'''
 5
 
-
-
 37.21
-
 Berry
-
 37.21
-
 Tina
-
-
 37.2
-
 Akriti
-
 41
-
 Harsh
-
 39
 
 Sample Output 0
 
 Berry
-
 Harry
+'''
